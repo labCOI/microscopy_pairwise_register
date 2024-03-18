@@ -19,7 +19,7 @@ info.OL = {0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.03;0.1;0.1;0.1;0.
 info.dataset = {1;1;1;1;1;1;1;1;1;1;3;2;2;2;2;2;2};
 
 for i = 1 : 10
-    [rmse_north, rmse_west, average_rmse, time_north, time_west, average_time, Tx_north, Tx_west, Ty_north, Ty_west] = pairwise_registration_NCC(strcat(SrcDir,info.dir{i,:}),info.imtype{i},info.nEnd{i},info.htile{i},info.vtile{i},info.OL{i},info.dataset{i});
-    save(sprintf('E:/HastiShabani/2. Projects/0. PairwiseRegistration/Codes/Intensity_based/Run_3_Corrected/NCC/Results_NCC/%d.mat',i),"rmse_north", "rmse_west", "average_rmse", "time_north", "time_west", "average_time","Tx_north", "Tx_west", "Ty_north", "Ty_west");
+    [rmse_north, rmse_west, average_rmse, time_north, time_west, average_time,Tx_north, Tx_west, Ty_north, Ty_west] = pairwise_registration_NCC_moving25_fixed35(strcat(SrcDir,info.dir{i,:}),info.imtype{i},info.nEnd{i},info.htile{i},info.vtile{i},info.OL{i},info.dataset{i});
+    save(sprintf('E:/HastiShabani/2. Projects/0. PairwiseRegistration/Codes/Intensity_based/Run_4_newNCC/NCC/Results_NCC/%d.mat',i),"rmse_north", "rmse_west", "average_rmse", "time_north", "time_west", "average_time","Tx_north", "Tx_west", "Ty_north", "Ty_west");
 end
 
