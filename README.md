@@ -16,5 +16,6 @@ Feature-based methods outperformed region-based methods in terms of accuracy and
 This study provides valuable insights into the strengths and weaknesses of different registration methods for microscopic image stitching. Researchers in the field of computational pathology and biology can utilize these findings to select the most suitable pairwise registration method for creating whole slide images.
 
 ## Citation
-If you find this work helpful for your research, please consider citing the accompanying article:
-[Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024). DOI: 10.1038/s41598-024-59626-y](https://doi.org/10.1038/s41598-024-59626-y)
+If you find this work helpful for your research or project, please consider citing the accompanying article:
+[Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024). DOI: 10.1038/s41598-024-59626-y](https://doi.org/10.1038/s41598-024-59626-y){target="_blank"}
+
