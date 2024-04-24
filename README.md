@@ -17,5 +17,5 @@ This study provides valuable insights into the strengths and weaknesses of diffe
 
 ## Citation
 If you find this work helpful for your research or project, please consider citing the accompanying article:
-[Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024). DOI: 10.1038/s41598-024-59626-y](https://doi.org/10.1038/s41598-024-59626-y){target="_blank"}
+[Fatemeh Sadat Mohammadi, Seyyed Erfan Mohammadi, Parsa Mojarad Adi, Seyed Mohammad Ali Mirkarimi, & Hasti Shabani. "A comparative analysis of pairwise image stitching techniques for microscopy images." Scientific Reports 14:9215 (2024). DOI: 10.1038/s41598-024-59626-y](https://doi.org/10.1038/s41598-024-59626-y)
 
