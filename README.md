@@ -13,7 +13,7 @@ This study compares region-based pairwise registration methods (NCC and Phase-NC
 Feature-based methods outperformed region-based methods in terms of accuracy and processing speed. Additionally, feature-based methods were highly robust to uneven illumination of tiles. Among feature-based methods, SURF features were identified as the most effective, surpassing all other techniques on different image modalities including bright-field, phase-contrast, and fluorescence.
 
 ## Conclusion
-This study provides valuable insights into the strengths and weaknesses of different registration methods for microscopic image stitching. Researchers in the field of computational pathology and biology can utilize these findings to select the most suitable pairwise registration method for creating whole slide images.
+This study provides valuable insights into the strengths and weaknesses of different registration methods for microscopic image stitching. Researchers in the field of computational pathology and biology can utilize these findings to select the most suitable pairwise registration method for creating whole slide images. 
 
 ## Citation
 If you find this work helpful for your research or project, please consider citing the accompanying article:
