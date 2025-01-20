@@ -19,8 +19,8 @@ This study provides valuable insights into the strengths and weaknesses of diffe
 If you find our paper and code useful, please kindly cite our paper as follows:
 
 ```bibtex
-@article{mohammadi2024,
-  author = {Fatemeh Sadat Mohammadi and Seyyed Erfan Mohammadi and Parsa Mojarad Ali and Seyed Mohammad Ali Mirkarimi and Hasti Shabani},
+@article{Mohammadi2024,
+  author = {Mohammadi,Fatemeh Sadat and Mohammadi, Seyyed Erfan and Mojarad Adi, Parsa and Mirkarimi, Seyed Mohammad Ali and Shabani, Hasti},
   title = {A Comparative Analysis of Pairwise Image Stitching Techniques for Microscopy Images},
   journal = {Scientific Reports},
   volume = {14},
